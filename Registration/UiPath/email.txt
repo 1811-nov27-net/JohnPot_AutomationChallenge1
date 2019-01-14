@@ -1,4 +1,0 @@
-{
-	"username":"yungrasshopa@gmail.com",
-	"password":"eighttenjack"
-}
